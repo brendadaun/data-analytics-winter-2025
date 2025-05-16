@@ -10,6 +10,8 @@ This assignment aims to help students critically evaluate the effectiveness of u
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
+When learning data analytics, ChatGPT can help by being a quick reference tool. I have used it to look up syntax and to ask it for definitions for different terminology. In this class, I expect that I will also use it to know what questions to ask when looking at data, and how to do certain things in Excel and SQL. 
+
 ---
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
@@ -25,7 +27,7 @@ You will ask ChatGPT the following question:
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
  
-    This is my idea about this....
+- While the explanation worked, it took some clicking around to figure out where exactly I was supposed to sort. Maybe I should have been more specific when asking Chat GPT and told it that I’m an Excel newbie. It would have been helpful for Chat GPT to clarify that the sorting would not be happening in the pivot table section. 
 
 ---
 
@@ -35,12 +37,19 @@ You will ask ChatGPT the following question:
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
+ 
+- While the Google result was more detailed, I also found it more confusing. I’ve found that when trying to find out how to do things in Excel, it’s hard to find blog posts or videos that show the version of Excel I’m currently using, which makes them hard to follow. 
 
+I thought this link was super helpful: https://spreadsheeto.com/sort-pivot-table/
+I liked how clear all the screenshots were with their corresponding arrows. Point to me like one of your French girls please. 
 ---
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this? 
+- Which resource you found most effective for this?
+
+- - I asked both Google and Chat GPT how to remove duplicates in a dataset, and once again found Chat GPT to be more helpful. Though Google “showed its work” and had a ton of links I could go to, it was much easier to follow Chat GPT. Maybe it’s because I have trained Chat GPT to explain things to me like I’m five. 
+
 ---
 
 ### 5. **When to Use Which Resource**  
@@ -48,14 +57,20 @@ Write a short response below explaining when it would be appropriate to use Chat
 - Time sensitivity  
 - Complexity of the problem  
 - Need for detailed visual instructions  
-- Level of confidence in verifying the accuracy of the information  
+- Level of confidence in verifying the accuracy of the information
+
+- I asked both Google and Chat GPT how to remove duplicates in a dataset, and once again found Chat GPT to be more helpful. Though Google “showed its work” and had a ton of links I could go to, it was much easier to follow Chat GPT. Maybe it’s because I have trained Chat GPT to explain things to me like I’m five. 
 
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
-- How this exercise influenced your approach to learning new data skills in the future.  
+- How this exercise influenced your approach to learning new data skills in the future.
+
+- I continue to be a Chat GPT stan. While I think there’s a ton of value in Google’s Search, I find their new AI Overview function super tedious and ugly, to the point that I have avoided using Google so that I don’t have that come up on my screen. 
+
+However, I do think that Google might be a better place to find additional resources to learn complicated subjects, so I might mainly use it to find like to other sites I want to visit. 
 
 ---
 
